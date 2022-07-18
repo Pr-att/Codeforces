@@ -1,7 +1,0 @@
-"""
-*** Another String Minimization Problem ***
-
-
-"""
-
-
