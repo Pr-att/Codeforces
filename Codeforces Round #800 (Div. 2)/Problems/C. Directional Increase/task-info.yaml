@@ -1,0 +1,47 @@
+type: codeforces
+files:
+- name: testData/1/input.txt
+  visible: true
+  text: |-
+    7
+    2
+    1 0
+    4
+    2 -1 -1 0
+    4
+    1 -4 3 0
+    4
+    1 -1 1 -1
+    5
+    1 2 3 4 -10
+    7
+    2 -1 1 -2 0 0 0
+    1
+    0
+  learner_created: false
+- name: testData/1/output.txt
+  visible: true
+  text: |-
+    No
+    Yes
+    No
+    No
+    Yes
+    Yes
+    Yes
+  learner_created: false
+- name: main.py
+  visible: true
+  text: |
+    """
+    Accomplished using the EduTools plugin by JetBrains https://plugins.jetbrains.com/plugin/10081-edutools
+
+    To modify the template, go to Preferences -> Editor -> File and Code Templates -> Other
+    """
+
+    if __name__ == "__main__":
+        # Write your solution here
+        pass
+  learner_created: false
+feedback_link: https://codeforces.com/contest/1694/problem/C?locale=en
+status: Unchecked
